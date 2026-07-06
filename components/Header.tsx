@@ -83,7 +83,7 @@ export default function Header({
             </g>
           </g>
         </svg>
-        <h1>Minnat TV</h1>
+        <h1>PRIYO TV</h1>
         <span className="relative flex h-2 w-2">
           <span className="animate-ping absolute inline-flex h-full w-full rounded-full bg-red-500 opacity-75" />
           <span className="relative inline-flex rounded-full h-2 w-2 bg-red-500" />
