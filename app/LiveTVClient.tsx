@@ -24,9 +24,9 @@ export default function LiveTVClient() {
     setToast((p) => ({ msg, k: p.k + 1 }));
   }, []);
 
-  // Load public/MinnatTv.m3u on mount
+  // Load public/priyo.m3u on mount
   useEffect(() => {
-    fetch("/MinnatTv.m3u")
+    fetch("/priyo.m3u")
       .then((r) => {
         if (!r.ok) throw new Error("Not found");
         return r.text();
@@ -34,8 +34,8 @@ export default function LiveTVClient() {
       .then((text) => {
         const parsed = parseM3U(text);
         setChannels(parsed);
-        setPlaylistLabel(`${parsed.length} channels · MinnatTv.m3u`);
-        showToast(`Loaded ${parsed.length} channels from MinnatTv.m3u`);
+        setPlaylistLabel(`${parsed.length} channels · priyo.m3u`);
+        showToast(`Loaded ${parsed.length} channels from priyo.m3u`);
       })
       .catch(() => {
         setPlaylistLabel("No playlist loaded");
