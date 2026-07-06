@@ -138,8 +138,8 @@ export default function LoadModal({ open, onClose, onLoad }: Props) {
                 value={url}
                 onChange={(e) => setUrl(e.target.value)}
                 onKeyDown={(e) => e.key === "Enter" && handleFetch()}
-                placeholder="https://code.wapborhan.com/live-tv/MinnatTv.m3u"
-                defaultValue="https://code.wapborhan.com/live-tv/MinnatTv.m3u"
+                placeholder="https://code.priyo.com/live-tv/priyo.m3u"
+                defaultValue="https://code.priyo.com/live-tv/priyo.m3u"
                 className="flex-1 bg-[#1e2230] border border-[#2a3050] rounded-lg px-3 py-2 text-xs text-[#e8eaf2] placeholder-[#7a83a0] outline-none focus:border-[#4f7ef8]"
               />
               <button
