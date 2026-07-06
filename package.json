@@ -1,7 +1,7 @@
 {
-  "name": "livetv",
+  "name": "PriyoTV",
   "version": "0.1.0",
-  "homepage": "https://tv.wapborhan.com/",
+  "homepage": "https://t.me/crypto_priyo",
   "private": true,
   "scripts": {
     "dev": "next dev",
