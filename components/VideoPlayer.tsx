@@ -366,9 +366,9 @@ export default function VideoPlayer({
       </div>
       <div className="credit hidden lg:block text-center border-t">
         Developed By{" "}
-        <Link href="https://www.wapborhan.com">
-          <span className="text-green-500">Borhan</span>{" "}
-          <span className="text-red-500">Uddin</span>
+        <Link href="https://t.me/crypto_priyo">
+          <span className="text-green-500">Its</span>{" "}
+          <span className="text-red-500">Priyo</span>
         </Link>
       </div>
     </div>
