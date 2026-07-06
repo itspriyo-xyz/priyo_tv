@@ -1,9 +1,12 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="FOX-FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRx4B2EkdlT4XnDUR7Efzyxan6BvP2LQcyrkVl63MX-xw&s=10" group-title="FIFA",FOX-FHD
 http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/38319.m3u8
-# ───────────FIFA Special───────────
+#EXTINF:-1 tvg-name="TSN 1-FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaORLxxx-sW9kEL2tYkkI92KVr-dcYSEb8FA&s" group-title="FIFA",TSN 1-FHD
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/38039.m3u8
 #EXTINF:-1 tvg-name="CAZÉ TV-FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSthGvBzSM_T_8v-BCDZFsedZ0eCGL3V7FdSIfsnP_Mjg&s=10" group-title="FIFA-BDIX",CAZÉ TV-FHD
 https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/1080p-vtt/index.m3u8
+
+# ───────────FIFA Special───────────
 #EXTINF:-1 tvg-name="T SPORTS-FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ48sXfohftQe1Anvg0duNsN-lFoSlb1OVZTaWtsNvbMw&s=10" group-title="FIFA-BDIX",T SPORTS-FHD
 http://103.165.93.31:8095/tsports/tracks-v1a1a2/mono.m3u8
 #EXTINF:-1 tvg-name="PTV SPORTS-FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHN6CMO12-PmVK2eroAEt7ngbNK6MDeg5bhF-YXQagVw&s=10" group-title="FIFA-BDIX",PTV SPORTS-FHD
