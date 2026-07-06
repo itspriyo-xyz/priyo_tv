@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="FOX-FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRx4B2EkdlT4XnDUR7Efzyxan6BvP2LQcyrkVl63MX-xw&s=10" group-title="FIFA",FOX-FHD
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/38319.m3u8
 # ───────────FIFA Special───────────
 #EXTINF:-1 tvg-name="CAZÉ TV-FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSthGvBzSM_T_8v-BCDZFsedZ0eCGL3V7FdSIfsnP_Mjg&s=10" group-title="FIFA-BDIX",CAZÉ TV-FHD
 https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/1080p-vtt/index.m3u8
